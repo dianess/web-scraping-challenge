@@ -5,6 +5,7 @@
 
 # Dependencies
 from bs4 import BeautifulSoup
+from flask_pymongo import PyMongo
 import pandas as pd
 import pymongo
 import requests
